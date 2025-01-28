@@ -1,0 +1,9 @@
+{
+  "name": "video-player",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "./index.d.ts"
+  ]
+}
